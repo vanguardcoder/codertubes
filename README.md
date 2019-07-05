@@ -1,8 +1,5 @@
 # codertubes
-A MEVN portfolio CRUD SPA web app showing a curated selection of web development video tutorials on YouTube.com. Technologies used are Vue.js and Bulma CSS framework on the front-end, MondoDB database, and Node.js and Express on the backend.
-
-# codertubes
-A Node.js, Express.js and MySQl backed CRUD portfolio SPA displaying links to video tutorials on Youtube.com for full-stack developers. SPA front-ends in Vue.js, Angular, React.js, and Bulma CSS, complimented by FontAwesome 5 icons and Fontastic.me generated icons, and Google Fonts.
+A MEVN portfolio CRUD SPA web app showing a curated selection of web development video tutorials on YouTube.com. Technologies used are Vue.js and Bulma CSS framework on the front-end, MondoDB database, and Node.js and Express on the backend, complimented by FontAwesome 5 icons and Fontastic.me generated icons, and Google Fonts.
 
 ## Steps to Install
 - git clone https://github.com/vanguardcoder/codertubes.git 
