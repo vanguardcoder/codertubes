@@ -1,0 +1,31 @@
+{
+  "name": "codertubes",
+  "version": "1.0.0",
+  "description": " A MEVN portfolio CRUD SPA web app showing a curated selection of web development video tutorials on YouTube.com.  Technologies used are Vue.js and Bulma CSS framework on the front-end, MondoDB database, and Node.js and Express on the backend.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanguardcoder/codertubes.git"
+  },
+  "author": "Ryan Hunter | GitHub handle: SystemsVanguard | email: ryan@ryanHunter.org | Location: Toronto ON Canada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanguardcoder/codertubes/issues"
+  },
+  "homepage": "https://github.com/vanguardcoder/codertubes#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "helmet": "^3.18.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.9.4"
+  }
+}
