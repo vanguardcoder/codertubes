@@ -11,11 +11,23 @@
     "type": "git",
     "url": "git+https://github.com/vanguardcoder/codertubes.git"
   },
+
   "author": "Ryan Hunter | GitHub handle: SystemsVanguard | email: ryan@ryanHunter.org | Location: Toronto ON Canada",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vanguardcoder/codertubes/issues"
   },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "MySQL",
+    "CRUD",
+    "SPA",
+    "Vue.js",
+    "MEVN",
+    "Video",
+    "Tutorials"
+],
   "homepage": "https://github.com/vanguardcoder/codertubes#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -27,5 +39,8 @@
     "helmet": "^3.18.0",
     "mysql2": "^1.6.5",
     "sequelize": "^5.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
